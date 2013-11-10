@@ -18,3 +18,14 @@ http://hgdownload.cse.ucsc.edu/goldenPath/hg19/chromosomes/
 
 Those interested in the Github data can find it at
 http://www.githubarchive.org/
+
+
+Errata
+------
+
+After the talk Jake Vanderplas showed me that indeed `numpy` does support
+accumulation on any binary operator.  Try the following in `ipyhthon` for a
+list of supported binops
+
+    import numpy
+    numpy.*.accumulate?
