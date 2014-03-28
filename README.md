@@ -14,9 +14,8 @@ The tutorial [video](http://vimeo.com/80096814) is now available on Vimeo.
 Requirements
 ------------
 
-    Python 2.6, 2.7, 3.2, 3.3
-
-    pip install toolz
+* Python > 2.6
+* [Toolz](https://github.com/pytoolz/toolz) - `pip install toolz`
 
 
 Notebooks
