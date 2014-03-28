@@ -1,5 +1,14 @@
-PyToolz Tutorial for PyData 2013 - NYC
-======================================
+PyToolz Tutorial
+================
+
+*Old School - Functional Data Analysis*
+
+> This talk will use core functionality from the `PyToolz` projects. Students will leave both with a set of concrete tools and with an understanding of some
+of the more applicable lessons from the functional style.
+
+[Presented](http://pydata.org/nyc2013/abstracts/#103) at [PyData NYC 2013](http://pydata.org/nyc2013).
+
+The tutorial [video](http://vimeo.com/80096814) is now available on Vimeo.
 
 
 Requirements
@@ -8,12 +17,6 @@ Requirements
     Python 2.6, 2.7, 3.2, 3.3
 
     pip install toolz
-
-
-Video
------
-
-The tutorial [video](http://vimeo.com/80096814) is now available on Vimeo.
 
 
 Notebooks
